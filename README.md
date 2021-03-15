@@ -1,2 +1,0 @@
-# NeuralNetworkAndDeepLearning
-中传小涵-神经网络与深度学习课程源码
