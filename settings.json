@@ -1,0 +1,58 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.tabCompletion": "on",
+    "editor.codeActionsOnSave": true,
+    "update.mode": "none",
+    "workbench.iconTheme": "vscode-icons",
+    "python.showStartPage": false,
+    "explorer.confirmDragAndDrop": false,
+    "leek-fund.funds": [
+        "001410",
+        "690012"
+    ],
+    "explorer.confirmDelete": false,
+    "C_Cpp.updateChannel": "Insiders",
+    "terminal.integrated.commandsToSkipShell": [
+        "psl.stepIn",
+        "psl.stepOut",
+        "psl.stepOver",
+        "psl.sendToHostTerminal"
+    ],
+    "remote.SSH.remotePlatform": {
+        "39.98.34.116": "linux",
+        "59.110.230.49": "linux"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "commentTranslate.targetLanguage": "en",
+    "vsicons.dontShowNewVersionMessage": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.startupEditor": "welcomePage",
+    "python.pythonPath": "E:\\anaconda\\anaconda\\envs\\class_IntelligentBigData\\python.exe",
+    "python.linting.pylintArgs": [
+        "--errors-only",
+        "--disable=E0401"
+    ],
+    "[json]": {
+
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
